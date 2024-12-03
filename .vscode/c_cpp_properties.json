@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/skypulse/ros2fun/install/realsense2_camera/include/**",
+        "/home/skypulse/ros2fun/install/realsense2_camera_msgs/include/**",
+        "/home/skypulse/ros2fun/install/mavros_extras/include/**",
+        "/home/skypulse/ros2fun/install/mavros/include/**",
+        "/home/skypulse/ros2fun/install/mavros_msgs/include/**",
+        "/home/skypulse/ros2fun/install/libmavconn/include/**",
+        "/home/skypulse/ros2fun/install/camera_models/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/skypulse/ros2fun/src/VINS-Fusion-ROS2-main/camera_models/include/**",
+        "/home/skypulse/ros2fun/src/mavros/libmavconn/include/**",
+        "/home/skypulse/ros2fun/src/mavros/mavros/include/**",
+        "/home/skypulse/ros2fun/src/mavros/mavros_extras/include/**",
+        "/home/skypulse/ros2fun/src/mavros/mavros_msgs/include/**",
+        "/home/skypulse/ros2fun/src/realsense-ros-4.55.1/realsense2_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
